@@ -2,4 +2,4 @@
 
 ##Screenshot of code
 
-[!Image](Snapshot.png)
+![Image](Snapshot.png)
