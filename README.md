@@ -6,4 +6,3 @@
 ![Image](Snapshot.png)
 
 ### Light Mode
-![Image](Snapshot-light.png)
